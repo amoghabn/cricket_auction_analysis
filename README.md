@@ -5,7 +5,7 @@ Analyze the auction data from the Indian Premier League (IPL) to gain insights i
 
 ## Libraries Used:
 
-pyspark: For distributed data processing using Spark SQL, data manipulation and analysis.
+pyspark: For data processing, data manipulation and analysis.
 
 ## Data Transformation and Cleaning:
 
